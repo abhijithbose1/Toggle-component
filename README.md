@@ -1,7 +1,7 @@
 # Toggle-component
 
   ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](src/assets/images/screenshot.png)
     ```
 
 #This Project contain a couple of toggle buttons which can be used to toggle respective component. 
